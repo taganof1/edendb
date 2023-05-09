@@ -1,0 +1,13 @@
+.text {
+    text-align: center;
+}
+
+table {
+    margin: 0 auto;
+} 
+
+.dropdown {
+    margin: 0 auto;
+    width: 250px;
+    padding: 10px;
+}
